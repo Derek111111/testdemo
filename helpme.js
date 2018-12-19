@@ -1,1 +1,2 @@
-//sdnjdafsijndsafijnsadfinjsadfinjasijdfnsdnfijasd
+//sdnjdafsijndsafijnsadfinjsadfinjasijdfnsdnfijasds
+document.onload(function(){});
